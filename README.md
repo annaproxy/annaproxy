@@ -2,10 +2,7 @@
 
 github is now social media.
 
-#### beat me in code golf
-
-- [𝚌𝚘𝚍𝚎.𝚐𝚘𝚕𝚏](https://code.golf/golfers/annaproxy/holes/bytes)
-- [𝚌𝚘𝚍𝚒𝚗𝚐𝚊𝚖𝚎](https://www.codingame.com/profile/823d2fbb8688833e15f6454828c1a01f6496093)
+#### beat me in [𝚌𝚘𝚍𝚎.𝚐𝚘𝚕𝚏](https://code.golf/golfers/annaproxy/holes/bytes)
 
 
 <!--
