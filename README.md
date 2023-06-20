@@ -3,6 +3,7 @@
 github is now social media.
 
 #### beat me in [𝚌𝚘𝚍𝚎.𝚐𝚘𝚕𝚏](https://code.golf/golfers/annaproxy/holes/bytes)
+Please, I need someone to discuss Prolog golfing tips with.
 
 
 <!--
